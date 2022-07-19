@@ -1,0 +1,51 @@
+Customer_id,Customer_name,Password,Branch_id,Branch,Employee_id,Employees,Employee Date of Birth,Phone_number,Email,Arrival_date,Departure_date,Bags,Employee_sex,Customer_Sex,Room_number,Hotel_value,Star_type,Packages,Room_type,Total_amount,Cash_payed,Balance
+322,Keit,6BoWyUP$,113,MUKONO,407,John malek,31-07-91,77748239,namakei2@mail.com,18-01-22,01-02-22,2,male,female,531,FIRST CLASS,FIVE STAR HOTEL,Fortnight,Single room,3500000,3500000,0
+1112,Mukasa saidi,ImxuLcGf,116,ENTEBBE,404,Robert Pattinson,25-06-71,756118850,mukasasaidi34@gmail.,18-08-09,21-08-09,2,male,male,1157,FIRST CLASS,FIVE STAR HOTEL,Fortnight,Single room,3500000,30000,3470000
+1182,deo,julian256,113,MUKONO,406,Angella Martin,19-02-58,708964325,baligeyadeogratius@gmail.com,04-07-22,09-07-22,3,female,male,500,FIRST CLASS,FIVE STAR HOTEL,Monthly,Single room,2000000,1000000,1000000
+1700,saul Solomon ,23UtMmKV,115,KAMPALA ,402,Jane Levinson,11-05-61,758441520,soul@email.com,08-06-22,21-06-22,7,female,male,1233,FIRST CLASS,FIVE STAR HOTEL,Fortnight,Single room,49000000,500000,48500000
+1845,Nalule Tryphine,0Jf1V*yr,114,MBARARA,404,Robert Pattinson,25-06-71,786925589,tryphynr@gmail.com,15-06-22,01-07-22,5,male,female,1357,FIRST CLASS,FIVE STAR HOTEL,Fortnight,Single room,3500000,30000,3470000
+3104,Emanuel M,Yyg&uoeD,115,MPIGI,409,Mike Son,15-03-87,797682310,emmaga@gmail.com,11-03-22,01-03-22,5,male,male,1021,SECOND CLASS,THREE STAR HOTEL,Fortnight,Double room,4200000,4000000,200000
+3134,Henry,mAtekag1231/,114,MBARARA,400,David Wallace,17-11-67,773883730,henrygk@mail.com,18-07-22,01-08-22,7,male,male,557,FIRST CLASS,FIVE STAR HOTEL,Monthly,Double room,225000000,1000000,224000000
+4004,Wakata,5nYcZG@g,114,MUKONO,402,Jane Levinson,11-05-61,73583788,wakata@yahoo,07-06-22,14-06-22,4,female,male,24,FIRST CLASS,FIVE STAR HOTEL,Fortnight,Single room,3500000,3000000,500000
+4076,Muganga John,Om&D/Us8,112,MPIGI,406,Angella Martin,19-02-58,73488231,muganga@gmail.com,11-06-22,01-07-22,9,female,male,598,FIRST CLASS,FIVE STAR HOTEL,Monthly,Single room,2000000,1000000,1000000
+4216,Sarah Nsereko ,ptzaE0W1,112,MPIGI,413,Jonner kult,01-08-98,700827271,sarahnsereko59@gmail,11-06-22,21-06-22,7,male,female,472,SECOND CLASS,THREE STAR HOTEL,Monthly,Double room,9000000,7000000,2000000
+4541,Hadi,KBvP6yzc,114,MBARARA,407,John malek,31-07-91,773883730,harda7@gmail.com,18-07-22,01-08-22,3,male,female,745,SECOND CLASS,THREE STAR HOTEL,Monthly,Double room,150000000,1500000,148500000
+4634,Mike,G9zHF?L/,113,MUKONO,404,Robert Pattinson,25-06-71,780456789,mike4@gmail.com,13-07-22,22-08-22,4,male,Male,1301,FIRST CLASS,FIVE STAR HOTEL,Fortnight,Single room,49000000,30000000,19000000
+4782,hilda,iRp*Vg&n,113,MUKONO,404,Robert Pattinson,25-06-71,88839,hilda123@gmail.com,04-07-22,03-08-22,3,male,male,1957,FIRST CLASS,FIVE STAR HOTEL,Fortnight,Single room,3500000,30000,3470000
+5388,Timothy,cisco 123,113,MUKONO,417,Steve Teddy,01-07-99,772471568,timo@gmail.com,13-07-22,22-07-22,4,male,male,753,FIRST CLASS,FIVE STAR HOTEL,Monthly,Double room,225000000,225000000,0
+5465,sandra,aTmg2y*z,112,MPIGI,403,Charles Peters,15-03-64,786947450,sandra43@gmail.com,13-07-22,14-07-22,10,male,female,682,SECOND CLASS,THREE STAR HOTEL,Fortnight,Single room,2800000,280000,2520000
+9419,gong,KZux&Q@v,113,ENTEBBE,401,John Doe,01-01-90,6474746,gongba@gmail.com,03-07-22,17-07-22,3,male,female,360,SECOND CLASS,THREE STAR HOTEL,Monthly,Double room,9000000,1000000,8000000
+10410,mbabazi,6SjkivKt,114,MBARARA,406,Angella Martin,19-02-58,9997,kkhl@gmail.com,04-07-22,17-07-22,7,female,male,802,SECOND CLASS,THREE STAR HOTEL,Monthly,Double room,9000000,7000000,2000000
+11345,Elna,z%KeNM8x,113,ENTEBBE,418,Robert Pattinson,05-02-80,772998688,nana@gmail.com,13-07-22,20-07-22,3,female,male,101,MODERATE CLASS,ORDINARY HOTE,Fortnight,Double room,35000000,5000000,30000000
+12255,Jjuko,xy128,113,ENTEBBE,403,Charles Peters,15-03-64,701958743,juju@gmail.com,13-07-22,21-10-22,40,male,Male,224,MODERATE CLASS,ORDINARY HOTE,Monthly,Double room,6000000,5000000,1000000
+17326,Tracy,6pGHE*l?,116,ENTEBBE,405,Robert Pattinson,05-02-80,704802246,katana@gmail.com,13-07-22,01-09-22,5,male,female,91,SECOND CLASS,THREE STAR HOTEL,Fortnight,Single room,2800000,400000,2400000
+17784,Edson,8zUj*oYm,115,KAMPALA ,401,John Doe,01-01-90,786561238,blaired2@gmail.com,13-07-22,17-07-22,3,male,male,712,SECOND CLASS,THREE STAR HOTEL,Fortnight,Double room,4200000,2000000,2200000
+17975,Ryan,G71k#06t,113,MUKONO,409,Mike Son,15-03-87,775867857,sryand@gmail.com,13-07-22,20-07-22,9,male,female,374,FIRST CLASS,FIVE STAR HOTEL,Monthly,Double room,150000000,5000000,145000000
+20731,batlor,Bat@354,116,ENTEBBE,401,John Doe,01-01-90,988448,batjdjd@gmail.com,04-07-22,16-07-22,7,male,male,1017,SECOND CLASS,THREE STAR HOTEL,Fortnight,Double room,4200000,400000,3800000
+20756,Kevin,x9vFIPOD,112,MPIGI,415,solomonBoy,01-07-01,704801249,kevinblaq@gmail.com,13-07-22,14-07-22,2,male,male,276,FIRST CLASS,FIVE STAR HOTEL,Fortnight,Single room,49000000,9000000,40000000
+21514,peter,@M/ERyxZ,113,MUKONO,414,Jane Gatlok,18-03-90,4889383,batieie@gmail.com,03-07-22,17-07-22,2,female,male,693,MODERATE CLASS,ORDINARY HOTEL,Fortnight,Double room,7000000,1000000,6000000
+22679,nkoyoyo,cpge\BMJ,113,MUKONO,405,Robert Pattinson,05-02-80,788484,njdjdjd@gmail.com,03-07-22,17-07-22,3,male,male,1123,FIRST CLASS,FIVE STAR HOTEL,Fortnight,Single room,3500000,352000,3148000
+24274,peobe,1RAvL/*f,113,MUKONO,406,Angella Martin,19-02-58,7478484,bhshshs@gmail.com,03-07-22,17-07-22,7,female,female,936,MODERATE CLASS,ORDINARY HOTE,Monthly,Double room,6000000,1000000,5000000
+27124,Andrew,NX3@1Il0,116,ENTEBBE,402,Jane Levinson,11-05-61,779412249,andrewk@gmail.com,13-07-22,02-08-22,5,female,male,204,FIRST CLASS,FIVE STAR HOTEL,Fortnight,Single room,49000000,49000000,0
+29205,gerald,ELS6r5UF,112,MPIGI,414,Jane Gatlok,18-03-90,6774,batlor@gmail.com,03-07-22,17-07-22,23,female,male,1190,MODERATE CLASS,ORDINARY HOTEL,Fortnight,Double room,7000000,6500000,500000
+29960,iueueu,Zaub@%ED,113,MUKONO,405,Robert Pattinson,05-02-80,8838383,batlor@gmail.com,03-07-22,17-07-22,3,male,male,1178,SECOND CLASS,THREE STAR HOTEL,Fortnight,Double room,7000000,4000000,3000000
+30880,elungat emma,emm@123,113,MUKONO,403,Charles Peters,15-03-64,777016931,elungatemma@gmail.com,13-07-22,12-08-22,19,male,male,901,FIRST CLASS,FIVE STAR HOTEL,Fortnight,Double room,49000000,500000,48500000
+31186,SIMBI DELLILAH,%/VGIdLf,116,ENTEBBE,404,Robert Pattinson,25-06-71,78309311,deliah@gmail.com,13-07-22,16-07-22,2,male,female,1191,FIRST CLASS,FIVE STAR HOTEL,Monthly,Double room,150000000,5000000,145000000
+31345,bridget,NvjMgyTQ,113,MUKONO,410,Robereto Pattinson,25-06-92,74748484,batlohjd@gmail.com,03-07-22,17-07-22,21,male,female,606,FIRST CLASS,FIVE STAR HOTEL,Fortnight,Single room,3500000,1000000,2500000
+31886,hellen,h3GnAVRy,113,MUKONO,411,Sektor Adrian,05-12-81,46464,tegdgd@gmail.com,03-07-22,17-07-22,3,female,male,1284,MODERATE CLASS,ORDINARY HOTEL,Monthly,Double room,9000000,500000,8500000
+32594,james,&3G1OS5k,113,MUKONO,403,Charles Peters,15-03-64,646464,btaaf@gmail.com,03-07-22,17-07-22,23,male,male,877,SECOND CLASS,THREE STAR HOTEL,Monthly,Double room,9000000,4500000,4500000
+33041,Martin,/A0BhSdr,116,ENTEBBE,410,Robereto Pattinson,25-06-92,799456786,kubona@gmail.com,13-07-22,16-07-22,4,female,male,831,SECOND CLASS,THREE STAR HOTEL,Monthly,Double room,150000000,30000000,120000000
+36040,joan,gSfw$mzd,112,MPIGI,412,Angel luyg,19-11-95,745456873,nabiryejoan@gmail.com,13-07-22,15-07-22,3,male,female,1335,MODERATE CLASS,ORDINARY HOTE,Monthly,Double room,75000000,6000000,69000000
+37137, Marvin,5u@Q/Kp7,116,ENTEBBE,407,John malek,31-07-91,7477378,marvin@gamail.com,13-07-22,17-07-22,2,male,marvin,131,FIRST CLASS,FIVE STAR HOTEL,Fortnight,Single room,3500000,3500000,0
+39065,Crystal,9olDeKM3,115,MPIGI,403,Charles Peters,15-03-64,704801349,crystalkilibo@gmail.com,13-07-22,01-09-22,7,male,female,1366,MODERATE CLASS,ORDINARY HOTE,Monthly,Double room,6000000,6000000,0
+40284,kilatid,XTFr$sMK,113,MUKONO,406,Angella Martin,19-02-58,5,njdjd@gmail.com,03-07-22,17-07-22,3,female,fmle,998,FIRST CLASS,FIVE STAR HOTEL,Monthly,Single room,2000000,2000000,0
+40399,sagga,mfYb6niD,112,MPIGI,418,Robert Pattinson,05-02-80,37373,yeeueue@gmail.com,03-07-22,17-07-22,23,male,male,393,MODERATE CLASS,ORDINARY HOTE,Monthly,Double room,6000000,500000,5500000
+42944,otto joash,&env/Scr,115,KAMPALA ,414,Jane Gatlok,18-03-90,772424201,ottojoash@gmail.com,13-07-22,02-08-22,12,female,male,1243,MODERATE CLASS,ORDINARY HOTEL,Fortnight,Single room,49000000,500000,48500000
+44253,Kasagga,axkVXyWM,113,MUKONO,405,Robert Pattinson,05-02-80,78383,2kddkd@gmail.com,03-07-22,17-07-22,23,male,male,322,SECOND CLASS,THREE STAR HOTEL,Fortnight,Double room,70000000,60000,69940000
+44391,Jesca,GawpiHuX,116,ENTEBBE,401,John Doe,01-01-90,72399393,jesca3@gmail.com,13-07-22,22-07-22,2,male,female,1421,FIRST CLASS,FIVE STAR HOTEL,Monthly,Single room,7500000,700000,6800000
+46069,Garvin,7Xm%W$Nx,114,MBARARA,406,Angella Martin,19-02-58,789684783,garvin@gmail.com,13-07-22,18-07-22,5,female,male,523,FIRST CLASS,FIVE STAR HOTEL,Fortnight,Single room,49000000,10000000,39000000
+46598,Ruth,PzbcRLte,114,MBARARA,403,Charles Peters,15-03-64,703457689,rutht@gmail.com,13-07-22,15-07-22,4,male,female,123,FIRST CLASS,FIVE STAR HOTEL,Monthly,Single room,7500000,5000000,2500000
+47474,Desire,vg&jP$nM,115,KAMPALA ,410,Robereto Pattinson,25-06-92,708898424,kisakyedhisayar@gmail.com,13-07-22,15-07-22,3,male,female,586,FIRST CLASS,FIVE STAR HOTEL,Fortnight,Double room,70000000,800000,69200000
+47665,jabak,2YURMKlv,112,MPIGI,408,Jane Levinson,11-05-91,8884,hdj3@gmail.com,03-07-22,17-07-22,3,female,male,1021,SECOND CLASS,THREE STAR HOTEL,Fortnight,Double room,4200000,4000000,200000
+48074,Jim,PH*T6fcx,115,KAMPALA ,406,Angella Martin,19-02-58,702374865,jimjam@gmail.com,13-07-22,12-08-22,3,female,male,987,MODERATE CLASS,ORDINARY HOTE,Monthly,Double room,75000000,4000000,71000000
+48776,Basaija,Nw&7z%5B,113,MUKONO,403,Charles Peters,15-03-64,7373673,bjsjsjs@gmail.com,09-12-21,01-01-22,3,male,male,323,MODERATE CLASS,ORDINARY HOTE,Monthly,Double room,6000000,4000000,2000000

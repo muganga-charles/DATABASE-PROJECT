@@ -1,0 +1,7 @@
+A hotel management project.
+The project represents diffrent branches which form a given hotel and their given locations.
+So the majar emphasis is on customers who visit the given branches of the hotel. The customers select a given hotel star from the selected branch.
+The customer is then allowed to enter their credentials to login to the system.
+They are then allocated a room based rooms which are also categorized into single and double, the customers' property is recorded and stored.
+The bill is the calculated for the customer at a given branch and he is then allowed to pay the bill.
+The balance is then calculated and the customer is then given a room_number.

@@ -1,0 +1,9 @@
+SELECT customer_name FROM customers JOIN employees JOIN branches_visited ON branches_visited.branch_id = employees.branch_id AND employees.client_id = customers.customer_id WHERE Branches_visited.branch_value = 112;
+
+SELECT customer_name FROM customers JOIN customer_rooms JOIN branch_star_type JOIN branches_visited ON branches_visited.branch_id = branch_star_type.branch_id AND branch_star_type.star_id =customer_rooms.room_star AND customer_rooms.customer_id = customers.customer_id WHERE branches_visited.branch_value = 112 AND branch_star_type.star_types LIKE '%FIVE STAR%';
+
+SELECT customer_name,branch_value,star_types FROM customers JOIN customer_rooms JOIN branch_star_type JOIN branches_visited ON branches_visited.branch_id = branch_star_type.branch_id AND branch_star_type.star_id = customer_rooms.room_star AND customer_rooms.customer_id = customers.customer_id;
+
+SELECT customer_name FROM customers WHERE customer_id IN (SELECT customer_id FROM customer_rooms WHERE arrival_date BETWEEN '11-03-22' AND '13-07-22');
+
+SELECT COUNT( DISTINCT(employee_name)) FROM employees;
