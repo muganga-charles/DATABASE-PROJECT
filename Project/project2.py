@@ -2,8 +2,9 @@ import csv
 from cs50 import SQL
 open ('mydata.db','w').close()
 database = SQL("sqlite:///mydata.db")
-brancheset = set()
+brancheset = set()#craeting a a set that is going to contain non duplicated 
 employee_name = set()
+# creating of tables
 database.execute(""" CREATE TABLE IF NOT EXISTS branches(
     branch_number INTEGER PRIMARY KEY,
     branch_name TEXT
@@ -53,6 +54,7 @@ database.execute(""" CREATE TABLE IF NOT EXISTS branch_star_type(
     balance INTEGER,
     FOREIGN KEY(branch_id) REFERENCES branches_visited(branch_id)
     );""")
+# inserting data into the braches table
 with open ('customers.csv', 'r') as file:
     reader = csv.DictReader(file)
     for row in reader:
@@ -61,6 +63,7 @@ with open ('customers.csv', 'r') as file:
     number = [115,114,113,112,116]
     for branch,i in zip(brancheset,number):
         branch_ids = database.execute("INSERT INTO branches(branch_number,branch_name) VALUES(?,?);",i,branch)
+        #inserting data into curstomer table and all the fields relating to the customers
 with open ('customers.csv', 'r') as file:
     reader = csv.DictReader(file)
     for row in reader:
@@ -86,8 +89,12 @@ with open ('customers.csv', 'r') as file:
         branches=row['Branch']
         workers = row['Employee_id']
         star_value = row['Hotel_value']
+        #inserting data into the branches_visitd table
         man = database.execute("INSERT INTO branches_visited(branch_value) VALUES(?)",branch_id)
+        #inserting data into customer table
         database.execute("INSERT INTO customers(customer_id,customer_name,customer_sex,customer_password,employee_assistant,customer_phone,customer_email,sex) VALUES(?,?,?,?,?,?,?,?);",customer_id,customer_name,sex,customer_password,employee_assistant,customer_phone,customer_email,sex)
+        #inserting data into employees table
         database.execute("INSERT INTO employees(employee_name,employee_sex,branch_id,client_id) VALUES(?,?,(SELECT branch_id FROM branches_visited WHERE branch_id = ?),?);",employee_assistant,employee_sex,man,customer_id)
         men = database.execute("INSERT INTO branch_star_type(star_types,star_value,packages,branch_id,total_amount,paid_amount,balance)VALUES (?,?,?,(SELECT branch_id FROM branches_visited WHERE branch_id = ?),?,?,?)",star,star_value,package,man,total_amount,cash_payed,balance)
+        #inserting data into customer_rooms table
         database.execute("INSERT INTO customer_rooms(room_number,room_star,arrival_date,customer_id,departure_date,bags)VALUES (?,(SELECT star_id FROM branch_star_type WHERE star_id = ?),?,?,?,?)",room_number,men,arrival_date,customer_id,departure_date,bags)
